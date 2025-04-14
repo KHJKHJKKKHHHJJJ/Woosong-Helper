@@ -1,4 +1,4 @@
-# Woosong University Student Chatbot
+# Woosong Helper (DEMO)
 
 A friendly and helpful AI chatbot designed to assist international students at Woosong University.
 
