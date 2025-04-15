@@ -67,4 +67,6 @@ Open your web browser and navigate to the local URL provided (usually `http://lo
 
 ## Environment Variables
 
-*   `GEMINI_API_KEY`: **Required.** Your API key for accessing the Google Gemini API. 
+*   `GEMINI_API_KEY`: **Required.** Your API key for accessing the Google Gemini API.
+
+** ALL OF THE FILES ARE CREATED BY AI **
